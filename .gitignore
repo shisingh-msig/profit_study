@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.build/
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+.env
+.venv
+venv/
+ENV/
+.env.bak/
+
+# Poetry
+poetry.lock
+# (Optionally track the lock file; remove above line if you want deterministic installs committed.)
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+
+# pytest
+.cache/
+
+# OS
+.DS_Store
+Thumbs.db
